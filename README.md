@@ -1,2 +1,2 @@
 # rental-housing-project
-A project to interact with real-time rental housing data
+Placeholder repo. Future plans to merge separate components of "Rental-Housing-Project" into this repo.
